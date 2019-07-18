@@ -1,11 +1,9 @@
 ALTER DATABASE jmurphy33 CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
-DROP TABLE IF EXISTS Task;
-
-CREATE TABLE Task (
+CREATE TABLE IF NOT EXISTS Task (
    taskId BINARY(20) NOT NULL ,
    taskTitle VARCHAR(225) NOT NULL ,
-   taskStarDate DATETIME NULL ,
+   taskStartDate DATETIME NULL ,
    taskDueDate DATETIME NULL ,
    taskStatus VARCHAR(64) NOT NULL,
    taskPriority VARCHAR(64) NOT NULL ,
@@ -14,4 +12,8 @@ CREATE TABLE Task (
    PRIMARY KEY (taskId)
 );
 
-SELECT likeProfileId, tweetContent FROM `like`, tweet WHERE tweetId = UNHEX(0536faef082b454e9d444cdbe7887d7a);
+SELECT tweet.tweetContent, profile.profileAtHandle
+FROM tweet
+INNER JOIN 'like' ON tweet.tweetId = like.likeTweetId
+INNER JOIN profile ON like.likeProfileId = profile.profileId
+WHERE tweet.tweetId = '0536faef082b454e9d444cdbe7887d7a';
