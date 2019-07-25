@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cee5c14-69b0-4b10-be2c-35fc50073876" name="Default Changelist" comment="first commit for 7-16 snap challenge">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snap7-23/snap7-23.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="3cee5c14-69b0-4b10-be2c-35fc50073876" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/snap7-25/snap7-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snap7-25/snap7-25.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,10 +39,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snap7-23/snap7-23.php">
+        <entry file="file://$PROJECT_DIR$/snap7-25/snap7-25.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+            <state relative-caret-position="374">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -72,10 +71,11 @@
         <option value="$PROJECT_DIR$/snap7-18/snap7-18.html" />
         <option value="$PROJECT_DIR$/snap7-18/snap7-18.js" />
         <option value="$PROJECT_DIR$/snap7-23/snap7-23.php" />
+        <option value="$PROJECT_DIR$/snap7-25/snap7-25.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2249" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -92,6 +92,11 @@
             <path>
               <item name="snap-challenges-jmurph1992" type="b2602c69:ProjectViewProjectNode" />
               <item name="snap-challenges-jmurph1992" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snap-challenges-jmurph1992" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-jmurph1992" type="462c0819:PsiDirectoryNode" />
+              <item name="snap7-25" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +153,8 @@
       <workItem from="1562854146792" duration="2186000" />
       <workItem from="1563286107532" duration="5344000" />
       <workItem from="1563458679002" duration="7807000" />
-      <workItem from="1563890450007" duration="6070000" />
+      <workItem from="1563890450007" duration="6333000" />
+      <workItem from="1564063468464" duration="1977000" />
     </task>
     <task id="LOCAL-00001" summary="first commit for 7-16 snap challenge">
       <created>1563289669567</created>
@@ -164,17 +170,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563467420138</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit for 7-23 snap challenge">
+      <created>1563910689870</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563910689870</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24064000" />
+    <option name="totallyTimeSpent" value="26304000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2249" y="0" width="974" height="1057" extended-state="0" />
+    <frame x="2248" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26206142" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13020277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -221,7 +234,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit for 7-16 snap challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit for 7-16 snap challenge" />
+    <MESSAGE value="first commit for 7-23 snap challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit for 7-23 snap challenge" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/snap7.9/functionchallenge.js">
@@ -284,8 +298,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap7-23/snap7-23.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        <state relative-caret-position="578">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap7-25/snap7-25.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap7-25/snap7-25.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
