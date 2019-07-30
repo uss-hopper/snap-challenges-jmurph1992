@@ -1,1 +1,3 @@
 My snap chellenge text file!
+
+I'm getting the hang of this git stuff! 
