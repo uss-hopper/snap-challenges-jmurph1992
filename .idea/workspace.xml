@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cee5c14-69b0-4b10-be2c-35fc50073876" name="Default Changelist" comment="snap challenge">
+    <list default="true" id="3cee5c14-69b0-4b10-be2c-35fc50073876" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/snap8-1/snap-style-8-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snap8-1/snap8-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snap7-30/snap7-30.php" beforeDir="false" afterPath="$PROJECT_DIR$/snap7-30/snap7-30.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,10 +39,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snap7-30/snap7-30.php">
+        <entry file="file://$PROJECT_DIR$/snap8-1/snap8-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="374">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snap8-1/snap-style-8-1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -53,6 +63,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -71,6 +82,8 @@
         <option value="$PROJECT_DIR$/snap7-18/snap7-18.js" />
         <option value="$PROJECT_DIR$/snap7-23/snap7-23.php" />
         <option value="$PROJECT_DIR$/snap7-30/snap7-30.php" />
+        <option value="$PROJECT_DIR$/snap8-1/snap-style-8-1.css" />
+        <option value="$PROJECT_DIR$/snap8-1/snap8-1.html" />
       </list>
     </option>
   </component>
@@ -84,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,11 +110,15 @@
               <item name="snap-challenges-jmurph1992" type="462c0819:PsiDirectoryNode" />
               <item name="snap7-30" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="snap-challenges-jmurph1992" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-jmurph1992" type="462c0819:PsiDirectoryNode" />
+              <item name="snap8-1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,7 +126,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OOP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../css-challenge-jmurph1992/index.php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
@@ -153,7 +172,8 @@
       <workItem from="1563286107532" duration="5344000" />
       <workItem from="1563458679002" duration="7807000" />
       <workItem from="1563890450007" duration="6070000" />
-      <workItem from="1564495434376" duration="5373000" />
+      <workItem from="1564495434376" duration="5641000" />
+      <workItem from="1564667976269" duration="2174000" />
     </task>
     <task id="LOCAL-00001" summary="first commit for 7-16 snap challenge">
       <created>1563289669567</created>
@@ -176,17 +196,24 @@
       <option name="project" value="LOCAL" />
       <updated>1564515306419</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="snap challenge 7-30 submission">
+      <created>1564515345599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564515345599</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30058000" />
+    <option name="totallyTimeSpent" value="32500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="987" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16815375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17021276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,7 +260,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit for 7-16 snap challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit for 7-16 snap challenge" />
+    <MESSAGE value="snap challenge 7-30 submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="snap challenge 7-30 submission" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/snap7.9/functionchallenge.js">
@@ -310,8 +338,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap7-30/snap7-30.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="754">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../css-challenge-jmurph1992/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap8-1/snap-style-8-1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap8-1/snap8-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
