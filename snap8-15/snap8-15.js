@@ -1,4 +1,4 @@
-let array1 = [
+const array1 = [
 	{
 		"id": 1,
 		"name": "Leanne Graham",
@@ -231,8 +231,18 @@ let array1 = [
 	}
 ];
 
+
 array1.map(function(person) {
 	delete person.company;
+	return person;
 });
 
 console.log(array1);
+
+// Solution
+
+// let updatedArray = array1.map((object) => {
+// 	delete object.company;
+// 	return object;
+// });
+// console.log(updatedArray);
