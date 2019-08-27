@@ -46,3 +46,7 @@ class person {
 
 $human = new person("Justin", "Murphy");
 $human -> fullName();
+
+//Write a class with two state variables, accessors, mutators, and a method that does something.
+//extra credit
+//instaniate the class and call to a method.
